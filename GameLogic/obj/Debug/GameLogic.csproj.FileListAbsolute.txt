@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\bin\Debug\GameLogic.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\bin\Debug\GameLogic.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\bin\Debug\GameLogic.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\obj\Debug\GameLogic.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\FallingRocksProject\GameLogic\obj\Debug\GameLogic.pdb
